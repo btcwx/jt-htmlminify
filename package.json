@@ -1,0 +1,32 @@
+{
+  "name": "jt-htmlminify",
+  "version": "0.0.1",
+  "description": "html minify for jt-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "make"
+  },
+  "keywords": [
+    "html",
+    "minify",
+    "jt-htmlminify"
+  ],
+  "config": {
+    "blanket": {
+      "pattern": "jt-htmlminify/lib"
+    }
+  },
+  "author": {
+    "name": "wyicwx",
+    "email": "wyicwx@gmail.com",
+    "web": "http://weibo.com/simplemaple"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyicwx/jt-htmlminify.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through2": "~0.4.1"
+  }
+}
