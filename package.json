@@ -1,6 +1,6 @@
 {
   "name": "jt-htmlminify",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "html minify for jt-cli",
   "main": "index.js",
   "scripts": {
