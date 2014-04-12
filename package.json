@@ -28,5 +28,10 @@
   "license": "MIT",
   "dependencies": {
     "through2": "~0.4.1"
-  }
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "blanket": "*",
+    "jt-cli": "*"
+  },
 }
